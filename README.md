@@ -81,7 +81,8 @@ Analysis:
 - No Show Percentage by SMS Received
 - No Show Percentage by Waiting Type
 
-![Executive Overview](Images/executive_overview.png)
+![Executive Overview](executive_overview.png)
+
 
 ---
 
@@ -94,13 +95,13 @@ Analysis:
 - Top Neighbourhoods by No Show Percentage
 - Top Neighbourhoods by Total Appointments
 
-![Health & Geographic Analysis](Images/health_geographic_analysis.png)
+![Health & Geographic Analysis](health_geographic_analysis.png)
 
 ---
 
 ### Insights & Recommendations
 
-![Insights & Recommendations](Images/insights_recommendations.png)
+![Insights & Recommendations](insights_recommendations.png)
 
 ---
 
